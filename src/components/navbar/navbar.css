@@ -1,0 +1,41 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #E5E4E6;
+  color: #333333;
+  font-family: "Calibri", sans-serif;
+  padding: 10px 100px;
+  font-size: 14px;
+}
+
+.links span {
+  margin-right: 10px;
+  transition: color 0.3s; 
+}
+
+.links span.text-link:hover {
+  cursor: pointer;
+  color: #A86706;
+}
+
+.links span:last-child {
+  margin-right: 0;
+}
+
+.logo img {
+  width: 190px;
+  height: 40px;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .links {
+    margin-top: 10px;
+  }
+}
