@@ -18,7 +18,7 @@ This landing page is a compound version of many live websites and I have made a 
 
 ## Getting Started
 
-To get started with this portfolio template, follow these simple steps:
+To get started with this, follow these simple steps:
 
 ### Prerequisites
 
