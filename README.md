@@ -13,6 +13,7 @@ This landing page is a compound version of many live websites and I have made a 
 ## Live Demo
 
 - Click [here]((https://hotel-landin-page-rosy.vercel.app/)) to view the live demo.
+- https://hotel-landin-page-rosy.vercel.app/
 
 ## Getting Started
 
