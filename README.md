@@ -1,4 +1,6 @@
-# Portfolio Template
+![image](https://github.com/amiladimantha/Hotel-landing-page/assets/84844150/6fa6c7bc-b0d9-4d6f-b2a9-d822e1eebae2)# Hotel Landing Page
+
+
 
 I created this landing page as an interview practical. However, instead of keeping it just with me, I decided to put it up here on GitHub as an open-source resource to help individuals to learn, adapt, and create their own small projects. Feel free to customize and modify the theme and components to suit your personal style and branding preferences.
 
